@@ -4,7 +4,6 @@
 - 🔭 We solve problems fast.
 - 🥅 We are goal-oriented.
 - 🌱 We always try to better ourself.
-- 📖 We love reading fictions.
 
 ### Connect with us:
 
