@@ -1,12 +1,12 @@
-## Hi there, I'm Minasie Shibeshi - [minasploit][website] 👋
+## Hi there, We are [firebow][website] 👋
 
-- 📃 I write <code>&lt;code/&gt;</code>.
-- 🔭 I solve problems fast.
-- 🥅 I am goal-oriented.
-- 🌱 I always try to better myself.
-- 📖 I love reading fictions.
+- 📃 We write <code>&lt;code/&gt;</code>.
+- 🔭 We solve problems fast.
+- 🥅 We are goal-oriented.
+- 🌱 We always try to better ourself.
+- 📖 We love reading fictions.
 
-### Connect with me:
+### Connect with us:
 
 [<img align="left" alt="minasploit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="minasploit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,11 +30,13 @@
 <img align="left" alt="Angular" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 
 <br />
 <br />
 
-[website]: https://example.com
-[twitter]: https://twitter.com/minasploit
-[instagram]: https://instagram.com/minasploit
-[linkedin]: https://linkedin.com/in/minasie-shibeshi
+[website]: https://firebow.net
+[twitter]: https://twitter.com/firebowTech
+[instagram]: https://instagram.com/firebowTech
+[linkedin]: https://linkedin.com/in/firebowTech
